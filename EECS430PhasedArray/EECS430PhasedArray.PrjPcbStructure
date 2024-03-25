@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=EECS430PhasedArray.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=EECS430PhasedArray.SchDoc|Designator=LNA|SchDesignator=LNA|FileName=LNA.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LNA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=EECS430PhasedArray.SchDoc|Designator=PA|SchDesignator=PA|FileName=PA.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
