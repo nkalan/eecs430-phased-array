@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MAQATTTS
 
 [Document9]
-DocumentPath=PhaseShifter.SchDoc
+DocumentPath=PhaseShifterA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,32 +236,53 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPSNVNRI
 
+[Document12]
+DocumentPath=PhaseShifterB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PLHDTVQP
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs\Design Rule Check - EECS430PhasedArray.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs\Footprint Comparison - EECS430PhasedArray.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=SCH_REVIEWER
+Name=PCB_DESIGNER
 Value=
 
 [Parameter2]
-Name=SCH_REV
-Value=A
-
-[Parameter3]
-Name=SCH_AUTHOR
-Value=
-
-[Parameter4]
-Name=PCB_REVIEWER
-Value=
-
-[Parameter5]
 Name=PCB_REV
 Value=A
 
+[Parameter3]
+Name=PCB_REVIEWER
+Value=
+
+[Parameter4]
+Name=SCH_AUTHOR
+Value=
+
+[Parameter5]
+Name=SCH_REV
+Value=A
+
 [Parameter6]
-Name=PCB_DESIGNER
+Name=SCH_REVIEWER
 Value=
 
 [Configuration1]
