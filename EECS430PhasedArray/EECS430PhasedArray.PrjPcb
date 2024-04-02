@@ -258,6 +258,74 @@ DocumentPath=Project Outputs\Design Rule Check - EECS430PhasedArray.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs\Footprint Comparison - EECS430PhasedArray.html
 DItemRevisionGUID=
 
