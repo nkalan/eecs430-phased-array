@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\natha\Desktop\UMich\Class Files\9 2024 Winter\EECS 430\Project\eecs430-phased-array\EECS430PhasedArray\EECS430PhasedArray.PcbDoc
 Date     : 4/2/2024
-Time     : 4:15:00 AM
+Time     : 5:54:57 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
