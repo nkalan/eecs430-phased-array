@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [EECS430PhasedArray.PrjPcb]
+   Generated File[EECS430PhasedArray.GTO]
+   Generated File[EECS430PhasedArray.GTP]
+   Generated File[EECS430PhasedArray.GTS]
+   Generated File[EECS430PhasedArray.GTL]
+   Generated File[EECS430PhasedArray.GBL]
+   Generated File[EECS430PhasedArray.GBS]
+   Generated File[EECS430PhasedArray.GBP]
+   Generated File[EECS430PhasedArray.GBO]
+   Generated File[EECS430PhasedArray.GPT]
+   Generated File[EECS430PhasedArray.GPB]
+   Generated File[EECS430PhasedArray.RUL]
+   Generated File[EECS430PhasedArray.EXTREP]
+   Generated File[EECS430PhasedArray.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 8:23:27 PM On 4/2/2024
