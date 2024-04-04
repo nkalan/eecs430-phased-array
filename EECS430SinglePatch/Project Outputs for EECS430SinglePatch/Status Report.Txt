@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [EECS430SinglePatch.PrjPcb]
+   Generated File[EECS430SinglePatch.GTO]
+   Generated File[EECS430SinglePatch.GTS]
+   Generated File[EECS430SinglePatch.GTL]
+   Generated File[EECS430SinglePatch.GBL]
+   Generated File[EECS430SinglePatch.GBS]
+   Generated File[EECS430SinglePatch.GBO]
+   Generated File[EECS430SinglePatch.GM1]
+   Generated File[EECS430SinglePatch.GM]
+   Generated File[EECS430SinglePatch.EXTREP]
+   Generated File[EECS430SinglePatch.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 3:43:04 PM On 4/4/2024
