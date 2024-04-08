@@ -306,116 +306,124 @@ DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\EECS430PhasedArray.GPB
+DocumentPath=Project Outputs\EECS430PhasedArray.GM
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GPB
+DocumentPath=Project Outputs\EECS430PhasedArray.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\EECS430PhasedArray.GPT
+DocumentPath=Project Outputs\EECS430PhasedArray.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GPT
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs\EECS430PhasedArray.GTL
+DocumentPath=Project Outputs\EECS430PhasedArray.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTL
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs\EECS430PhasedArray.GTO
+DocumentPath=Project Outputs\EECS430PhasedArray.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTO
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs\EECS430PhasedArray.GTP
+DocumentPath=Project Outputs\EECS430PhasedArray.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTP
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs\EECS430PhasedArray.GTS
+DocumentPath=Project Outputs\EECS430PhasedArray.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTS
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs\EECS430PhasedArray.LDP
+DocumentPath=Project Outputs\EECS430PhasedArray.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs\EECS430PhasedArray.REP
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.REP
+DocumentPath=Project Outputs\EECS430PhasedArray.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs\EECS430PhasedArray.RUL
+DocumentPath=Project Outputs\EECS430PhasedArray.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.RUL
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.REP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs\EECS430PhasedArray.TXT
+DocumentPath=Project Outputs\EECS430PhasedArray.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.DRR
+DocumentPath=Project Outputs\Gerber\EECS430PhasedArray.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.LDP
+DocumentPath=Project Outputs\EECS430PhasedArray.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.TXT
+DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument35]
+DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs\NC Drill\EECS430PhasedArray_DRILL.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument37]
 DocumentPath=Project Outputs\Footprint Comparison - EECS430PhasedArray.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=PCB_DESIGNER
+Name=SCH_REVIEWER
 Value=
 
 [Parameter2]
-Name=PCB_REV
-Value=A
-
-[Parameter3]
-Name=PCB_REVIEWER
-Value=
-
-[Parameter4]
-Name=SCH_AUTHOR
-Value=
-
-[Parameter5]
 Name=SCH_REV
 Value=A
 
-[Parameter6]
-Name=SCH_REVIEWER
+[Parameter3]
+Name=SCH_AUTHOR
+Value=Nathaniel Kalantar
+
+[Parameter4]
+Name=PCB_REVIEWER
 Value=
+
+[Parameter5]
+Name=PCB_REV
+Value=A
+
+[Parameter6]
+Name=PCB_DESIGNER
+Value=Nathaniel Kalantar
 
 [Configuration1]
 Name=Default Configuration
@@ -790,7 +798,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=YPSNVNRI|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16973848~1,16973849~1|PlotBoardProfile=False|PlotBoardProfileFileName=EECS430PhasedArray.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=EECS430PhasedArray.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=EECS430PhasedArray.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=EECS430PhasedArray.GBO|UserLayerName.Caption1=EECS430PhasedArray.GTP|UserLayerName.Caption10=EECS430PhasedArray.GBS|UserLayerName.Caption11=EECS430PhasedArray.GM16|UserLayerName.Caption12=EECS430PhasedArray.GM1|UserLayerName.Caption13=EECS430PhasedArray.GBL|UserLayerName.Caption14=EECS430PhasedArray.GM5|UserLayerName.Caption15=EECS430PhasedArray.GM15|UserLayerName.Caption16=EECS430PhasedArray.GM24|UserLayerName.Caption17=EECS430PhasedArray.GM20|UserLayerName.Caption18=EECS430PhasedArray.GTL|UserLayerName.Caption19=EECS430PhasedArray.GKO|UserLayerName.Caption2=EECS430PhasedArray.GTO|UserLayerName.Caption3=EECS430PhasedArray.GTS|UserLayerName.Caption4=EECS430PhasedArray.GM13|UserLayerName.Caption5=EECS430PhasedArray.GM21|UserLayerName.Caption6=EECS430PhasedArray.GM23|UserLayerName.Caption7=EECS430PhasedArray.GPT|UserLayerName.Caption8=EECS430PhasedArray.GPB|UserLayerName.Caption9=EECS430PhasedArray.GBP|UserLayerName.Count=20|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16908304|UserLayerName.Layer12=16908289|UserLayerName.Layer13=16842751|UserLayerName.Layer14=16908293|UserLayerName.Layer15=16908303|UserLayerName.Layer16=16908312|UserLayerName.Layer17=16908308|UserLayerName.Layer18=16777217|UserLayerName.Layer19=16973837|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908309|UserLayerName.Layer6=16908311|UserLayerName.Layer7=16973848|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16973833|DocumentPath=C:\Users\natha\Desktop\UMich\Class Files\9 2024 Winter\EECS 430\Project\eecs430-phased-array\EECS430PhasedArray\EECS430PhasedArray.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=YPSNVNRI|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName=EECS430PhasedArray.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=EECS430PhasedArray.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=EECS430PhasedArray.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=EECS430PhasedArray.GBO|UserLayerName.Caption1=EECS430PhasedArray.GTP|UserLayerName.Caption10=EECS430PhasedArray.GM4|UserLayerName.Caption11=EECS430PhasedArray.GBS|UserLayerName.Caption12=EECS430PhasedArray.GM16|UserLayerName.Caption13=EECS430PhasedArray.GM1|UserLayerName.Caption14=EECS430PhasedArray.GBL|UserLayerName.Caption15=EECS430PhasedArray.GM5|UserLayerName.Caption16=EECS430PhasedArray.GM15|UserLayerName.Caption17=EECS430PhasedArray.GM24|UserLayerName.Caption18=EECS430PhasedArray.GM20|UserLayerName.Caption19=EECS430PhasedArray.GTL|UserLayerName.Caption2=EECS430PhasedArray.GTO|UserLayerName.Caption20=EECS430PhasedArray.GBP|UserLayerName.Caption3=EECS430PhasedArray.GTS|UserLayerName.Caption4=EECS430PhasedArray.GM13|UserLayerName.Caption5=EECS430PhasedArray.GM21|UserLayerName.Caption6=EECS430PhasedArray.GM23|UserLayerName.Caption7=EECS430PhasedArray.GPT|UserLayerName.Caption8=EECS430PhasedArray.GPB|UserLayerName.Caption9=EECS430PhasedArray.GKO|UserLayerName.Count=21|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908292|UserLayerName.Layer11=16973835|UserLayerName.Layer12=16908304|UserLayerName.Layer13=16908289|UserLayerName.Layer14=16842751|UserLayerName.Layer15=16908293|UserLayerName.Layer16=16908303|UserLayerName.Layer17=16908312|UserLayerName.Layer18=16908308|UserLayerName.Layer19=16777217|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908309|UserLayerName.Layer6=16908311|UserLayerName.Layer7=16973848|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16973837|DocumentPath=C:\Users\natha\Desktop\UMich\Class Files\9 2024 Winter\EECS 430\Project\eecs430-phased-array\EECS430PhasedArray\EECS430PhasedArray.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs

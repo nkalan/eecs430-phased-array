@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EECS430PhasedArray.PcbDoc   4/5/2024  2:27:01 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : EECS430PhasedArray.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             174       PTH        48.94inch (1243.07mm)
+T2      32mil (0.8mm)                                             Round             6         PTH        0.97inch (24.61mm)
+T3      40mil (1.016mm)                                           Round             23        PTH        17.28inch (438.99mm)
+T4      40mil (1.021mm)                                           Round             40        PTH        4.50inch (114.30mm)
+T5      47mil (1.199mm)                                           Round             8         PTH        6.78inch (172.22mm)
+T6      138mil (3.5mm)                                            Round             4         PTH        19.60inch (497.84mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              255
+
+Total Processing Time (hh:mm:ss) : 00:00:00
